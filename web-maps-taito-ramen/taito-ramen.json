@@ -1,0 +1,818 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.5 1bd436f1",
+  "osm3s": {
+    "timestamp_osm_base": "2025-04-19T03:36:43Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1138559735,
+  "lat": 35.6975168,
+  "lon": 139.7829392,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "cuisine:ja": "ラーメン",
+    "description": "つけ麺",
+    "name": "麺やまるとも"
+  }
+},
+{
+  "type": "node",
+  "id": 1148542967,
+  "lat": 35.7128271,
+  "lon": 139.7945148,
+  "tags": {
+    "addr:housenumber": "浅草1-39-9",
+    "addr:postcode": "1110032",
+    "addr:street": "伝法院通り",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "cuisine:ja": "ラーメン",
+    "name": "ら麺亭",
+    "name:en": "Ramen-tei;ramentei",
+    "opening_hours": "Mo-Fr 11:00-20:00; Sa-Su 10:00-20:00",
+    "phone": "0338450514",
+    "website": "https://ramen-restaurant-2020.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 2270744726,
+  "lat": 35.7080201,
+  "lon": 139.7739815,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "cuisine:ja": "ラーメン",
+    "name": "ばんから",
+    "name:en": "Bankara",
+    "note": "旭川味噌ラーメン",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4129232989,
+  "lat": 35.7124635,
+  "lon": 139.7936036,
+  "tags": {
+    "amenity": "restaurant",
+    "brand": "一風堂",
+    "brand:en": "Ippudo",
+    "brand:ja": "一風堂",
+    "brand:wikidata": "Q6065417",
+    "brand:zh": "一風堂",
+    "cuisine": "ramen",
+    "name": "一風堂",
+    "name:en": "Ippudo",
+    "name:ja": "一風堂",
+    "name:zh": "一風堂",
+    "website": "https://www.ippudo.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4327972089,
+  "lat": 35.7110275,
+  "lon": 139.7940403,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "Rihei Ramen Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4746397821,
+  "lat": 35.7124291,
+  "lon": 139.7752178,
+  "tags": {
+    "addr:housenumber": "台東区上野7－１－１",
+    "addr:postcode": "110-0005",
+    "addr:street": "東京都台東区上野7-1-1",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "cuisine:ja": "ラーメン",
+    "internet_access": "wlan",
+    "name": "一蘭",
+    "name:en": "Ichiran",
+    "name:es": "Ichiran",
+    "name:ja": "一蘭アトレ上野店",
+    "name:ja_kana": "いちらん",
+    "name:zh": "一蘭拉麵",
+    "opening_hours": "24/7",
+    "phone": "+81-3-5826-5861",
+    "website": "https://ichiran.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4896618165,
+  "lat": 35.7027400,
+  "lon": 139.7765270,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "ラーメンイエロー",
+    "name:en": "Ramen Yellow",
+    "name:ja": "ラーメンイエロー"
+  }
+},
+{
+  "type": "node",
+  "id": 4946893909,
+  "lat": 35.7060071,
+  "lon": 139.7724248,
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "上野広小路店",
+    "brand": "一風堂",
+    "brand:en": "Ippudo",
+    "brand:ja": "一風堂",
+    "brand:wikidata": "Q6065417",
+    "brand:zh": "一風堂",
+    "contact:phone": "+81 3 5807 2772",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "一風堂",
+    "name:en": "Ippudo",
+    "name:ja": "一風堂",
+    "name:ja_kana": "いっぷうどう",
+    "name:zh": "一風堂",
+    "outdoor_seating": "no",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:icsf": "yes",
+    "payment:jcb": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "smoking": "no",
+    "source": "survey",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4948093675,
+  "lat": 35.7118789,
+  "lon": 139.7785966,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "name": "希家",
+    "name:en": "Nozomiya"
+  }
+},
+{
+  "type": "node",
+  "id": 4974316447,
+  "lat": 35.7111571,
+  "lon": 139.7755724,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "cuisine:ja": "ラーメン",
+    "name": "風龍",
+    "name:en": "Furyu"
+  }
+},
+{
+  "type": "node",
+  "id": 4977132042,
+  "lat": 35.7058591,
+  "lon": 139.7744166,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "name": "中本",
+    "name:en": "Nakamoto"
+  }
+},
+{
+  "type": "node",
+  "id": 5012917122,
+  "lat": 35.7115613,
+  "lon": 139.7971573,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "つし馬",
+    "name:en": "Tsushima"
+  }
+},
+{
+  "type": "node",
+  "id": 5155762725,
+  "lat": 35.7122347,
+  "lon": 139.7915414,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name:en": "raishuken ramen"
+  }
+},
+{
+  "type": "node",
+  "id": 5173139163,
+  "lat": 35.6974640,
+  "lon": 139.7855645,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "cuisine:ja": "横浜家系ラーメン",
+    "level": "0",
+    "name": "浅草家",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5196308225,
+  "lat": 35.7042647,
+  "lon": 139.7765529,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "富白",
+    "name:en": "Tomishiro",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5336209464,
+  "lat": 35.7083510,
+  "lon": 139.7739944,
+  "tags": {
+    "amenity": "restaurant",
+    "branch": "上野アメ横店",
+    "brand": "天下一品",
+    "brand:en": "Tenkaippin",
+    "brand:ja": "天下一品",
+    "brand:wikidata": "Q11442172",
+    "brand:wikipedia": "en:Tenkaippin",
+    "check_date": "2024-12-20",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "天下一品",
+    "name:en": "Tenkaippin",
+    "name:ja": "天下一品",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5894168987,
+  "lat": 35.7125349,
+  "lon": 139.7904372,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "麺 みつヰ",
+    "opening_hours": "Tu-Sa 09:00-14:30, 17:30-21:00; Su 11:00-16:00",
+    "website": "https://men-mitsuwi.tumblr.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5894181785,
+  "lat": 35.7044406,
+  "lon": 139.7901425,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "ラーメン改",
+    "name:en": "ramen kai",
+    "opening_hours": "Tu-Su 11:00-15:00, 17:30-21:00",
+    "phone": "0338646055",
+    "website": "https://twitter.com/ra_menkai"
+  }
+},
+{
+  "type": "node",
+  "id": 6250981386,
+  "lat": 35.7112655,
+  "lon": 139.7967449,
+  "tags": {
+    "addr:housenumber": "1-2-12 Asakusa",
+    "addr:postcode": "1100032",
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "name": "濃厚鶏麺ゆきかげ",
+    "name:en": "Rich & creamy Ramen Yukikage",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "phone": "0368752595",
+    "website": "https://gurunavi.com/en/gf7p100/rst/?__ngt__=TT0f202bbad005ac1e4ae205XT0q8Ha2oNJyFu_yRWTeqE"
+  }
+},
+{
+  "type": "node",
+  "id": 6370138390,
+  "lat": 35.7124213,
+  "lon": 139.7923882,
+  "tags": {
+    "addr:housenumber": "浅草1-24-5",
+    "addr:postcode": "1110032",
+    "addr:street": "国際通り",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "富士らーめん",
+    "name:en": "FUJI RAMEN",
+    "opening_hours": "Tu-Su 11:00-21:00",
+    "phone": "0338410315"
+  }
+},
+{
+  "type": "node",
+  "id": 6370611389,
+  "lat": 35.7127346,
+  "lon": 139.7926574,
+  "tags": {
+    "addr:housenumber": "浅草1-26-5 1F",
+    "addr:postcode": "1110032",
+    "addr:street": "新仲見世",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "博多一風堂 浅草ROX・3G店",
+    "name:en": "HAKATA IPPUDO",
+    "opening_hours": "Mo-Su 10:30-23:00",
+    "phone": "0362317739",
+    "website": "https://ippudo.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6370611685,
+  "lat": 35.7127433,
+  "lon": 139.7967423,
+  "tags": {
+    "addr:housenumber": "浅草1-36-7",
+    "addr:postcode": "1110032",
+    "amenity": "restaurant",
+    "check_date": "2023-01-08",
+    "cuisine": "ramen",
+    "name": "浅草名代らーめん 与ろゐ屋",
+    "name:en": "YOROIYA",
+    "opening_hours": "Mo-Su 11:00-20:30",
+    "phone": "0338454618",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:disposal": "flush",
+    "toilets:position": "seated",
+    "toilets:wheelchair": "no",
+    "website": "https://yoroiya.jp/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6575067728,
+  "lat": 35.7086754,
+  "lon": 139.7737835,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2024-12-20",
+    "cuisine": "ramen",
+    "name": "北海道ラーメン ひむろ 上野店",
+    "opening_hours": "Mo-Sa 11:00-04:00; Su 11:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6649008164,
+  "lat": 35.7051009,
+  "lon": 139.7730432,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "level": "0",
+    "lunch": "yes",
+    "name": "薮づか",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6901985042,
+  "lat": 35.7098559,
+  "lon": 139.7771788,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "name": "らーめん侍"
+  }
+},
+{
+  "type": "node",
+  "id": 7964743054,
+  "lat": 35.7160303,
+  "lon": 139.7983119,
+  "tags": {
+    "amenity": "fast_food",
+    "check_date": "2023-01-08",
+    "cuisine": "ramen",
+    "name": "ハッスルラーメンホンマ　浅草店"
+  }
+},
+{
+  "type": "node",
+  "id": 7964743056,
+  "lat": 35.7155733,
+  "lon": 139.7989608,
+  "tags": {
+    "amenity": "fast_food",
+    "check_date": "2023-01-08",
+    "cuisine": "ramen",
+    "name": "ラーメン　うりんぼ"
+  }
+},
+{
+  "type": "node",
+  "id": 8173679617,
+  "lat": 35.7107561,
+  "lon": 139.7803856,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "さんじ",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 8195723457,
+  "lat": 35.7104872,
+  "lon": 139.7810255,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "level": "0"
+  }
+},
+{
+  "type": "node",
+  "id": 8988010875,
+  "lat": 35.7026159,
+  "lon": 139.7781006,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "博多麺神",
+    "name:en": "Hakata Menshin",
+    "opening_hours": "10:30-23:00",
+    "source": "survey",
+    "start_date": "2021"
+  }
+},
+{
+  "type": "node",
+  "id": 9404745847,
+  "lat": 35.7247695,
+  "lon": 139.7787997,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "弥生亭"
+  }
+},
+{
+  "type": "node",
+  "id": 9688972436,
+  "lat": 35.7189876,
+  "lon": 139.7669723,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "name": "あたりや食堂"
+  }
+},
+{
+  "type": "node",
+  "id": 9721903121,
+  "lat": 35.7077564,
+  "lon": 139.7818684,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "name": "熊ぼっこ"
+  }
+},
+{
+  "type": "node",
+  "id": 9785683557,
+  "lat": 35.6974904,
+  "lon": 139.7841888,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "浅草橋双麺"
+  }
+},
+{
+  "type": "node",
+  "id": 10269991515,
+  "lat": 35.7141781,
+  "lon": 139.7772405,
+  "tags": {
+    "addr:city": "台東区",
+    "addr:floor": "3 - ecute ueno",
+    "addr:full": "〒110-0005 東京都台東区上野７丁目１−1 JR 上野駅改札内 ecute上野（3階）内",
+    "addr:postcode": "110-0005",
+    "addr:province": "東京都",
+    "addr:quarter": "上野",
+    "addr:suburb": "台東区",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "diet:vegan": "yes",
+    "name:en": "T's TanTan Ecute Ueno",
+    "name:ja": "T's たんたん",
+    "note": "Access only past ticket gates",
+    "note:ja": "アクセスは改札を抜けたところのみ。",
+    "opening_hours": "Mo-Fr 10:00-22:00; Sa-Su 10:00-21:00",
+    "phone": "+81358265618",
+    "website": "http://ts-restaurant.jp/tantan/"
+  }
+},
+{
+  "type": "node",
+  "id": 10291420909,
+  "lat": 35.7130464,
+  "lon": 139.7769527,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "diet:vegan": "yes",
+    "name:en": "T‘s Tantan",
+    "outdoor_seating": "no",
+    "website": "https://ts-restaurant.jp/tantan"
+  }
+},
+{
+  "type": "node",
+  "id": 10314072840,
+  "lat": 35.7136820,
+  "lon": 139.7982555,
+  "tags": {
+    "amenity": "fast_food",
+    "check_date": "2023-01-08",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "竹三郎",
+    "name:en": "Takesaburō",
+    "name:ja": "竹三郎"
+  }
+},
+{
+  "type": "node",
+  "id": 10314143241,
+  "lat": 35.7125803,
+  "lon": 139.7979838,
+  "tags": {
+    "amenity": "fast_food",
+    "check_date": "2023-01-08",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "もり中華",
+    "name:ja": "もり中華"
+  }
+},
+{
+  "type": "node",
+  "id": 10314173675,
+  "lat": 35.7130446,
+  "lon": 139.7967540,
+  "tags": {
+    "amenity": "fast_food",
+    "check_date": "2023-01-08",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "一龍",
+    "name:ja": "一龍"
+  }
+},
+{
+  "type": "node",
+  "id": 10734404324,
+  "lat": 35.7136794,
+  "lon": 139.7982324,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2023-04-01",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "濃厚豚骨ラーメン竹三郎",
+    "payment:cards": "no",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10807237088,
+  "lat": 35.7144427,
+  "lon": 139.7935769,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "level": "1",
+    "name": "一蘭"
+  }
+},
+{
+  "type": "node",
+  "id": 10815739721,
+  "lat": 35.7057638,
+  "lon": 139.7783121,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "name": "とりジンジャー"
+  }
+},
+{
+  "type": "node",
+  "id": 10902396097,
+  "lat": 35.7063611,
+  "lon": 139.7729425,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "俺の生きる道",
+    "source": "survey",
+    "start_date": "2023-05"
+  }
+},
+{
+  "type": "node",
+  "id": 11358348079,
+  "lat": 35.7082737,
+  "lon": 139.7947446,
+  "tags": {
+    "addr:block_number": "9",
+    "addr:city": "台東区",
+    "addr:housenumber": "9",
+    "addr:neighbourhood": "1丁目",
+    "addr:postcode": "111-0043",
+    "addr:province": "東京都",
+    "addr:quarter": "駒形",
+    "amenity": "restaurant",
+    "capacity": "10",
+    "cuisine": "ramen",
+    "name": "浅草 熟成味噌らーめん のりあき 美々",
+    "name:en": "Ramen Noriaki Bibi",
+    "opening_hours": "11:30:14:30, 18:00-23:00",
+    "phone": "+81-3-6231-7970",
+    "source": "survey",
+    "twitter": "Noriaki_BIBI",
+    "website": "https://ramen-noriaki-bibi.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 11365057589,
+  "lat": 35.7072757,
+  "lon": 139.7741685,
+  "tags": {
+    "addr:block_number": "27",
+    "addr:city": "台東区",
+    "addr:housenumber": "12",
+    "addr:neighbourhood": "3丁目",
+    "addr:postcode": "110-0005",
+    "addr:province": "東京都",
+    "addr:quarter": "上野",
+    "amenity": "restaurant",
+    "capacity": "25",
+    "cuisine": "ramen",
+    "level": "7",
+    "name": "コウベタンタンメン エニシスタンド",
+    "opening_hours": "Mo-Fr 11:00-15:00, 17:00-21:00; Sa-Su 11:00-21:00",
+    "source": "survey",
+    "twitter": "enishistand0905",
+    "website": "https://www.instagram.com/enishistand0905/"
+  }
+},
+{
+  "type": "node",
+  "id": 11403597169,
+  "lat": 35.7153864,
+  "lon": 139.7936990,
+  "tags": {
+    "addr:housenumber": "15-2",
+    "addr:postcode": "111-0032",
+    "addr:street": "2-chome",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "らぁめんろん○",
+    "name:en": "Ramen Menmaru",
+    "name:it": "Ramen Menmaru",
+    "name:ja": "らぁめんめん",
+    "opening_hours": "Mo-Fr 10:00-16:00; Sa-Su 09:00-18:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11535716847,
+  "lat": 35.7159816,
+  "lon": 139.7933130,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2024-01-21",
+    "cuisine": "ramen",
+    "name": "青山らーめん"
+  }
+},
+{
+  "type": "node",
+  "id": 11535721413,
+  "lat": 35.7155557,
+  "lon": 139.7937556,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2024-01-21",
+    "cuisine": "ramen",
+    "name": "日進"
+  }
+},
+{
+  "type": "node",
+  "id": 11545395870,
+  "lat": 35.7082390,
+  "lon": 139.7758402,
+  "tags": {
+    "addr:block_number": "1",
+    "addr:city": "台東区",
+    "addr:housenumber": "6",
+    "addr:neighbourhood": "6丁目",
+    "addr:postcode": "110-0005",
+    "addr:province": "東京都",
+    "addr:quarter": "上野",
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "あいだや",
+    "name:en": "Aidaya",
+    "opening_hours": "11:00-15:00,17:30-20:45"
+  }
+},
+{
+  "type": "node",
+  "id": 11669501426,
+  "lat": 35.7194090,
+  "lon": 139.7826959,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:instagram": "https://www.instagram.com/craftramenbit/",
+    "cuisine": "ramen",
+    "name": "Craft Ramen BiT",
+    "opening_hours": "11:00-14:30,17:30-20:30; Su off",
+    "start_date": "2024-04-26",
+    "twitter": "https://twitter.com/CraftBit2024",
+    "website": "https://tabelog.com/tokyo/A1311/A131104/13294446/"
+  }
+},
+{
+  "type": "node",
+  "id": 11680358809,
+  "lat": 35.7010575,
+  "lon": 139.7805590,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "ramen",
+    "level": "0",
+    "name": "加減",
+    "name:en": "Kagen",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 12208334301,
+  "lat": 35.7113620,
+  "lon": 139.7755237,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "ramen",
+    "name": "東京油組総本店 上野組",
+    "name:en": "Tokyo Aburagumi Sohoten Uenogumi"
+  }
+}
+
+  ]
+}

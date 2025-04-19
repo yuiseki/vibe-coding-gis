@@ -1,0 +1,54 @@
+#root {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.map-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  background-color: #1a3b5c;
+  color: white;
+  margin: 0;
+  padding: 10px 0;
+  font-size: 1.5rem;
+}
+
+.loading, .shop-count {
+  padding: 10px;
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+.loading {
+  color: #666;
+}
+
+.shop-count {
+  color: #1a3b5c;
+}
+
+.popup-content {
+  padding: 5px;
+  max-width: 200px;
+}
+
+.popup-content h3 {
+  margin: 0 0 8px 0;
+  font-size: 1rem;
+  color: #1a3b5c;
+}
+
+.popup-content p {
+  margin: 5px 0;
+  font-size: 0.9rem;
+  color: #333;
+}
